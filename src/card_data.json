@@ -1,0 +1,310 @@
+[
+    {
+        "name": "Marcelo",
+        "categories": {
+            "Party Tolerance": 10,
+            "Shenanigans/Capita": 9,
+            "Party Planning": 9,
+            "Punctuality": 5,
+            "Sportiness": 3,
+            "Purity of Heart": 3
+        }
+    },
+    {
+        "name": "Sean",
+        "categories": {
+            "Party Tolerance": 9,
+            "Shenanigans/Capita": 6,
+            "Party Planning": 7,
+            "Punctuality": 8,
+            "Sportiness": 4,
+            "Purity of Heart": 4
+        }
+    },
+    {
+        "name": "Sophia",
+        "categories": {
+            "Party Tolerance": 8,
+            "Shenanigans/Capita": 10,
+            "Party Planning": 1,
+            "Punctuality": 6,
+            "Sportiness": 2,
+            "Purity of Heart": 3
+        }
+    },
+    {
+        "name": "Ben",
+        "categories": {
+            "Party Tolerance": 6,
+            "Shenanigans/Capita": 4,
+            "Party Planning": 8,
+            "Punctuality": 7,
+            "Sportiness": 10,
+            "Purity of Heart": 5
+        }
+    },
+    {
+        "name": "Zoe",
+        "categories": {
+            "Party Tolerance": 6,
+            "Shenanigans/Capita": 4,
+            "Party Planning": 10,
+            "Punctuality": 7,
+            "Sportiness": 8,
+            "Purity of Heart": 5
+        }
+    },
+    {
+        "name": "Omar",
+        "categories": {
+            "Party Tolerance": 8,
+            "Shenanigans/Capita": 5,
+            "Party Planning": 4,
+            "Punctuality": 2,
+            "Sportiness": 5,
+            "Purity of Heart": 4
+        }
+    },
+    {
+        "name": "Abbey",
+        "categories": {
+            "Party Tolerance": 5,
+            "Shenanigans/Capita": 5,
+            "Party Planning": 6,
+            "Punctuality": 4,
+            "Sportiness": 7,
+            "Purity of Heart": 7
+        }
+    },
+    {
+        "name": "Emma",
+        "categories": {
+            "Party Tolerance": 5,
+            "Shenanigans/Capita": 4,
+            "Party Planning": 5,
+            "Punctuality": 4,
+            "Sportiness": 6,
+            "Purity of Heart": 9
+        }
+    },
+    {
+        "name": "Lucy",
+        "categories": {
+            "Party Tolerance": 4,
+            "Shenanigans/Capita": 9,
+            "Party Planning": 7,
+            "Punctuality": 8,
+            "Sportiness": 2,
+            "Purity of Heart": 1
+        }
+    },
+    {
+        "name": "Lucas",
+        "categories": {
+            "Party Tolerance": 2,
+            "Shenanigans/Capita": 4,
+            "Party Planning": 6,
+            "Punctuality": 10,
+            "Sportiness": 6,
+            "Purity of Heart": 8
+        }
+    },
+    {
+        "name": "Emily",
+        "categories": {
+            "Party Tolerance": 4,
+            "Shenanigans/Capita": 3,
+            "Party Planning": 4,
+            "Punctuality": 6,
+            "Sportiness": 5,
+            "Purity of Heart": 7
+        }
+    },
+    {
+        "name": "Hero",
+        "categories": {
+            "Party Tolerance": 7,
+            "Shenanigans/Capita": 6,
+            "Party Planning": 6,
+            "Punctuality": 7,
+            "Sportiness": 2,
+            "Purity of Heart": 4
+        }
+    },
+    {
+        "name": "Simon",
+        "categories": {
+            "Party Tolerance": 1,
+            "Shenanigans/Capita": 2,
+            "Party Planning": 2,
+            "Punctuality": 6,
+            "Sportiness": 9,
+            "Purity of Heart": 5
+        }
+    },
+    {
+        "name": "Sav",
+        "categories": {
+            "Party Tolerance": 3,
+            "Shenanigans/Capita": 7,
+            "Party Planning": 3,
+            "Punctuality": 2,
+            "Sportiness": 3,
+            "Purity of Heart": 7
+        }
+    },
+    {
+        "name": "Conor",
+        "categories": {
+            "Party Tolerance": 5,
+            "Shenanigans/Capita": 5,
+            "Party Planning": 7,
+            "Punctuality": 5,
+            "Sportiness": 5,
+            "Purity of Heart": 6
+        }
+    },
+    {
+        "name": "Josh",
+        "categories": {
+            "Party Tolerance": 9,
+            "Shenanigans/Capita": 8,
+            "Party Planning": 8,
+            "Punctuality": 1,
+            "Sportiness": 8,
+            "Purity of Heart": 5
+        }
+    },
+    {
+        "name": "Dag",
+        "categories": {
+            "Party Tolerance": 3,
+            "Shenanigans/Capita": 4,
+            "Party Planning": 1,
+            "Punctuality": 3,
+            "Sportiness": 3,
+            "Purity of Heart": 10
+        }
+    },
+    {
+        "name": "Roman",
+        "categories": {
+            "Party Tolerance": 4,
+            "Shenanigans/Capita": 7,
+            "Party Planning": 3,
+            "Punctuality": 4,
+            "Sportiness": 6,
+            "Purity of Heart": 7
+        }
+    },
+    {
+        "name": "Natalie",
+        "categories": {
+            "Party Tolerance": 2,
+            "Shenanigans/Capita": 2,
+            "Party Planning": 6,
+            "Punctuality": 7,
+            "Sportiness": 4,
+            "Purity of Heart": 9
+        }
+    },
+    {
+        "name": "Winnie",
+        "categories": {
+            "Party Tolerance": 2,
+            "Shenanigans/Capita": 8,
+            "Party Planning": 2,
+            "Punctuality": 2,
+            "Sportiness": 9,
+            "Purity of Heart": 10
+        }
+    },
+    {
+        "name": "Myles",
+        "categories": {
+            "Party Tolerance": 8,
+            "Shenanigans/Capita": 6,
+            "Party Planning": 3,
+            "Punctuality": 4,
+            "Sportiness": 2,
+            "Purity of Heart": 2
+        }
+    },
+    {
+        "name": "Alex",
+        "categories": {
+            "Party Tolerance": 6,
+            "Shenanigans/Capita": 3,
+            "Party Planning": 8,
+            "Punctuality": 8,
+            "Sportiness": 9,
+            "Purity of Heart": 6
+        }
+    },
+    {
+        "name": "Karen",
+        "categories": {
+            "Party Tolerance": 10,
+            "Shenanigans/Capita": 10,
+            "Party Planning": 1,
+            "Punctuality": 3,
+            "Sportiness": 5,
+            "Purity of Heart": 3
+        }
+    },
+    {
+        "name": "Steve",
+        "categories": {
+            "Party Tolerance": 7,
+            "Shenanigans/Capita": 9,
+            "Party Planning": 2,
+            "Punctuality": 3,
+            "Sportiness": 2,
+            "Purity of Heart": 5
+        }
+    },
+    {
+        "name": "GoPromar",
+        "categories": {
+            "Party Tolerance": 1,
+            "Shenanigans/Capita": 2,
+            "Party Planning": 6,
+            "Punctuality": 1,
+            "Sportiness": 6,
+            "Purity of Heart": 6
+        }
+    },
+    {
+        "name": "Marcelo's Vapes",
+        "categories": {
+            "Party Tolerance": 9,
+            "Shenanigans/Capita": 8,
+            "Party Planning": 1,
+            "Punctuality": 9,
+            "Sportiness": 1,
+            "Purity of Heart": 1
+        }
+    },
+    {
+        "name": "A Single Pint of Guinness",
+        "categories": {
+            "Party Tolerance": 6,
+            "Shenanigans/Capita": 6,
+            "Party Planning": 4,
+            "Punctuality": 2,
+            "Sportiness": 3,
+            "Purity of Heart": 4
+        }
+    },
+    {
+        "name": "Sophia's Parents' Vase",
+        "categories": {
+            "Party Tolerance": 4,
+            "Shenanigans/Capita": 5,
+            "Party Planning": 3,
+            "Punctuality": 5,
+            "Sportiness": 1,
+            "Purity of Heart": 5
+        }
+    }
+]
