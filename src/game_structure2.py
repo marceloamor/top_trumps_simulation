@@ -1,4 +1,5 @@
 import random
+import json
 from collections import defaultdict
 
 
@@ -8,7 +9,14 @@ class Card:
         self.categories = categories
 
     def get_best_category_index(self):
-        return self.categories.index(max(self.categories))
+        best_category, best_value = max(
+            self.categories.items(), key=lambda item: item[1]
+        )
+        return list(self.categories.keys()).index(best_category)
+
+    @classmethod
+    def from_json(cls, data):
+        return cls(data["name"], data["categories"])
 
 
 class Player:
@@ -40,7 +48,7 @@ class Game:
 
     def start_round(self):
         self.round_count += 1
-        if self.round_count > 500:
+        if self.round_count > 1000:
             print("Stopping game due to too many rounds (possible loop).")
             return False
 
@@ -155,12 +163,12 @@ class Game:
                 break
 
 
-def simulate_games(num_simulations=1):
+def simulate_games(num_simulations=1, json_file="src/card_data.json"):
+    with open(json_file, "r") as f:
+        card_data = json.load(f)
+
     for _ in range(num_simulations):
-        cards = [
-            Card(f"Card {i+1}", [random.randint(1, 10) for _ in range(6)])
-            for i in range(28)
-        ]
+        cards = [Card.from_json(card) for card in card_data]
         random.shuffle(cards)
         players = [Player(f"Player {i+1}", cards[i::4]) for i in range(4)]
 
